@@ -18,4 +18,5 @@ Project is a Windows Server environment made with virtual machines to showcase e
 
 <h2>Active Directory</h2>
 
-[AD IMG](Screenshot(1).png)
+[AD IMG](Screenshot1.png)
+
