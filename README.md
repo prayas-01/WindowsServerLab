@@ -22,7 +22,7 @@ Project is a Windows Server environment made with virtual machines to showcase e
 <img src="images/Screenshot (1).png" alt="Active Directory IMG" width="100%" height="80%"> 
 -Created a new user named Jack Jack.
 <img src="images/Screenshot (2).png" alt="Active Directory IMG" width="100%" height="80%">
--First intalled a Windows 11 Enterprise VM. Then joined the computer to the domain as WORK101 and put it in the computers OU for the USA.
+-First intalled a Windows 11 Enterprise VM. Then set a static IP address for the the Windows Server machine so that it could be used as a DNS server for the new computer to connect to.
 <img src="images/Screenshot (6).png" alt="Active Directory IMG" width="100%" height="80%"> 
 
 <img src="images/Screenshot (7).png" alt="Active Directory IMG" width="100%" height="80%"> 
