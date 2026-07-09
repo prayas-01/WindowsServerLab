@@ -5,7 +5,7 @@ Project is a Windows Server environment made with virtual machines to showcase e
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
 - <b>Active Directory</b> 
 - <b>Group Policy Management</b>
